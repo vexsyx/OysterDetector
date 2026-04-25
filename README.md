@@ -81,7 +81,7 @@
 
 2. **Biome Alerts**:
    - Check boxes for biomes you want notifications for
-   - Note: GLITCHED and DREAMSPACE always send alerts
+   - Note: GLITCHED, DREAMSPACE, CYBERSPACE and SINGULARITY biomes always send alerts
 
 3. **Aura Ping Settings**:
    - Enable pings if you want @mentions for rare auras
