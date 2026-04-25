@@ -1534,7 +1534,7 @@
         "identifier": "Oculus",
         "properties": {
             "name": "Oculus",
-            "base_chance": 23233540,
+            "base_chance": 23333340,
             "biome_amplifier": [
                 "HEAVEN",
                 5
@@ -1868,17 +1868,6 @@
             "biome_amplifier": [
                 "None",
                 1
-            ]
-        }
-    },
-    {
-        "identifier": "Gravitational_PointZero",
-        "properties": {
-            "name": "Point • Zero",
-            "base_chance": 120000000,
-            "biome_amplifier": [
-                "SINGULARITY",
-                5
             ]
         }
     },
@@ -4655,23 +4644,6 @@
         }
     },
     {
-        "identifier": "Illusionary",
-        "properties": {
-            "name": "Illusionary",
-            "base_chance": 10000000,
-            "ping_rarity": 99999998,
-            "fixed_rarity": true,
-            "biome_whitelist": [
-                "CYBERSPACE"
-            ],
-            "biome_amplifier": [
-                "CYBERSPACE",
-                1
-            ],
-            "rank": "challenged_plus"
-        }
-    },
-    {
         "identifier": "Oppression",
         "properties": {
             "name": "Oppression",
@@ -4753,6 +4725,23 @@
         }
     },
     {
+        "identifier": "Illusionary",
+        "properties": {
+            "name": "Illusionary",
+            "base_chance": 10000000,
+            "ping_rarity": 99999998,
+            "fixed_rarity": true,
+            "biome_whitelist": [
+                "CYBERSPACE"
+            ],
+            "biome_amplifier": [
+                "CYBERSPACE",
+                1
+            ],
+            "rank": "challenged_plus"
+        }
+    },
+    {
         "identifier": "Pleiades",
         "properties": {
             "name": "Pleiades",
@@ -4763,8 +4752,7 @@
             "biome_amplifier": [
                 "SINGULARITY",
                 1
-            ],
-            "rank": "mythic"
+            ]
         }
     },
     {
@@ -4778,8 +4766,7 @@
             "biome_amplifier": [
                 "SINGULARITY",
                 1
-            ],
-            "rank": "mythic"
+            ]
         }
     },
     {
@@ -4793,8 +4780,7 @@
             "biome_amplifier": [
                 "SINGULARITY",
                 1
-            ],
-            "rank": "mythic"
+            ]
         }
     },
     {
@@ -4808,8 +4794,7 @@
             "biome_amplifier": [
                 "SINGULARITY",
                 1
-            ],
-            "rank": "challenged"
+            ]
         }
     },
     {
@@ -4823,8 +4808,7 @@
             "biome_amplifier": [
                 "SINGULARITY",
                 1
-            ],
-            "rank": "challenged"
+            ]
         }
     },
     {
@@ -4838,8 +4822,7 @@
             "biome_amplifier": [
                 "SINGULARITY",
                 1
-            ],
-            "rank": "challenged"
+            ]
         }
     },
     {
@@ -4853,8 +4836,21 @@
             "biome_amplifier": [
                 "SINGULARITY",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Gravitational_PointZero",
+        "properties": {
+            "name": "Point • Zero",
+            "base_chance": 521121900,
+            "biome_whitelist": [
+                "SINGULARITY"
             ],
-            "rank": "challenged"
+            "biome_amplifier": [
+                "SINGULARITY",
+                1
+            ]
         }
     },
     {
