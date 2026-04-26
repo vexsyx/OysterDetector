@@ -4456,9 +4456,9 @@
         }
     },
     {
-        "identifier": "Cell_Asteroids",
+        "identifier": "Cell Asteroides",
         "properties": {
-            "name": "Cell : Asteroids",
+            "name": "Cell Asteroides",
             "base_chance": 0,
             "biome_amplifier": [
                 "None",
