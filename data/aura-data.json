@@ -2282,7 +2282,7 @@
         }
     },
     {
-        "identifier": "Pythios",
+        "identifier": "PYTHIOS",
         "properties": {
             "name": "Pythios",
             "base_chance": 666666666,
@@ -2504,7 +2504,7 @@
         }
     },
     {
-        "identifier": "Astral_Astrald",
+        "identifier": "AstralAstrald",
         "properties": {
             "name": "Astrald",
             "base_chance": 267000,
@@ -3673,7 +3673,7 @@
         }
     },
     {
-        "identifier": "Aegis_Eggis",
+        "identifier": "Aegis_EGGIS",
         "properties": {
             "name": "Eggis",
             "base_chance": 1150000000,
@@ -3686,7 +3686,7 @@
         }
     },
     {
-        "identifier": "Y.O.L.K.E.G.G.",
+        "identifier": "Yolkegg",
         "properties": {
             "name": "Y.O.L.K.E.G.G.",
             "base_chance": 1780808080,
@@ -3782,7 +3782,7 @@
         }
     },
     {
-        "identifier": "Scavenger",
+        "identifier": "SCAVENGER",
         "properties": {
             "name": "Scavenger",
             "base_chance": 0,
@@ -4092,7 +4092,7 @@
         }
     },
     {
-        "identifier": "Bloodgarden",
+        "identifier": "BloodGarden",
         "properties": {
             "name": "Bloodgarden",
             "base_chance": 88000000,
@@ -4248,7 +4248,7 @@
         }
     },
     {
-        "identifier": "Arachnophobia",
+        "identifier": "ARACHNOPHOBIA",
         "properties": {
             "name": "Arachnophobia",
             "base_chance": 940000000,
@@ -4261,7 +4261,7 @@
         }
     },
     {
-        "identifier": "Erebus",
+        "identifier": "EREBUS",
         "properties": {
             "name": "Erebus",
             "base_chance": 1200000000,
@@ -4356,7 +4356,7 @@
         }
     },
     {
-        "identifier": "Dreadsea",
+        "identifier": "DREADSEA",
         "properties": {
             "name": "Dreadsea",
             "base_chance": 0,
