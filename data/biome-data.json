@@ -268,7 +268,7 @@
         },
         "unobtainable": false,
         "always_send": true,
-        "ping_everyone": true,
+        "ping_everyone": false,
         "snipe_protection": true,
         "rpc_compatible": true,
         "rare_biome": true
