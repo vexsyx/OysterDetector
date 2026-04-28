@@ -1534,7 +1534,7 @@
         "identifier": "Oculus",
         "properties": {
             "name": "Oculus",
-            "base_chance": 23333340,
+            "base_chance": 23233340,
             "biome_amplifier": [
                 "HEAVEN",
                 5
