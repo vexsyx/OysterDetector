@@ -374,6 +374,17 @@
         }
     },
     {
+        "identifier": "TARGETED",
+        "properties": {
+            "name": "Targeted",
+            "base_chance": 5000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": ":Flushed:",
         "properties": {
             "name": ":Flushed:",
@@ -510,6 +521,28 @@
         "properties": {
             "name": "Powered",
             "base_chance": 16384,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Gilded_Crowned",
+        "properties": {
+            "name": "Gilded : Crowned",
+            "base_chance": 20000,
+            "biome_amplifier": [
+                "SAND STORM",
+                4
+            ]
+        }
+    },
+    {
+        "identifier": "Marsh",
+        "properties": {
+            "name": "Marsh",
+            "base_chance": 25000,
             "biome_amplifier": [
                 "None",
                 1
@@ -788,6 +821,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Vortex",
+        "properties": {
+            "name": "Vortex",
+            "base_chance": 399999,
+            "biome_amplifier": [
+                "WINDY",
+                3
             ]
         }
     },
@@ -1960,7 +2004,7 @@
         }
     },
     {
-        "identifier": "Virtual_Memory",
+        "identifier": "Virtual Memory",
         "properties": {
             "name": "Virtual : Memory",
             "base_chance": 232232232,
@@ -2069,6 +2113,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "dreamer",
+        "properties": {
+            "name": "dreamer",
+            "base_chance": 315000000,
+            "biome_amplifier": [
+                "NIGHT",
+                10
             ]
         }
     },
@@ -4447,6 +4502,7 @@
         "properties": {
             "name": "Eclipse",
             "base_chance": 0,
+            "collected_stat": 100032,
             "biome_amplifier": [
                 "None",
                 1
@@ -4460,6 +4516,7 @@
         "properties": {
             "name": "Cell Asteroides",
             "base_chance": 0,
+            "collected_stat": 13770000,
             "biome_amplifier": [
                 "None",
                 1
@@ -4469,36 +4526,11 @@
         }
     },
     {
-        "identifier": "Matrix_Steampunk",
-        "properties": {
-            "name": "Matrix : Steampunk",
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ],
-            "rarity_override": "Crafting",
-            "rank": "glorious"
-        }
-    },
-    {
-        "identifier": "Atlas_A.T.L.A.S.",
-        "properties": {
-            "name": "A.T.L.A.S.",
-            "base_chance": 0,
-            "biome_amplifier": [
-                "None",
-                1
-            ],
-            "rarity_override": "Crafting",
-            "rank": "glorious"
-        }
-    },
-    {
         "identifier": "Chromatic_Hyper",
         "properties": {
             "name": "Chromatic : Hyper",
             "base_chance": 0,
+            "collected_stat": 35000000,
             "biome_amplifier": [
                 "None",
                 1
@@ -4508,16 +4540,59 @@
         }
     },
     {
-        "identifier": "MasterHand",
+        "identifier": "Atlas_A.T.L.A.S.",
         "properties": {
-            "name": "Master Hand",
+            "name": "A.T.L.A.S.",
             "base_chance": 0,
+            "collected_stat": 536870915,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting",
+            "rank": "glorious"
+        }
+    },
+    {
+        "identifier": "AbyssalHunter_Awakened",
+        "properties": {
+            "name": "Abyssal Hunter : Awakened",
+            "base_chance": 0,
+            "collected_stat": 1638000000,
             "biome_amplifier": [
                 "None",
                 1
             ],
             "rarity_override": "Crafting",
             "rank": "transcendent"
+        }
+    },
+    {
+        "identifier": "Matrix_Steampunk",
+        "properties": {
+            "name": "Matrix : Steampunk",
+            "base_chance": 0,
+            "collected_stat": 1841004000,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting",
+            "rank": "glorious"
+        }
+    },
+    {
+        "identifier": "MasterHand",
+        "properties": {
+            "name": "Master Hand",
+            "base_chance": 0,
+            "collected_stat": 7625999900,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Crafting",
+            "rank": "dimensional"
         }
     },
     {

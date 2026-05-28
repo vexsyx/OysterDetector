@@ -65,6 +65,12 @@
             "display_name": "Transcendent",
             "order": 11,
             "asset_name": "transcendent.png"
+        },
+        "dimensional": {
+            "color": "0x9B870C",
+            "display_name": "Dimensional",
+            "order": 12,
+            "asset_name": "dimensional.png"
         }
     },
     "rarity_ranges": {
@@ -121,8 +127,14 @@
             "description": "Transcendent",
             "default_rank": "transcendent"
         },
-        "unknown": {
+        "dimensional": {
             "min_rarity": 7500000000,
+            "max_rarity": 12500000000,
+            "description": "Dimensional",
+            "default_rank": "dimensional"
+        },
+        "unknown": {
+            "min_rarity": 12500000001,
             "description": "Unknown",
             "default_rank": "basic"
         }
