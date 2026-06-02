@@ -4815,7 +4815,7 @@
         "properties": {
             "name": "Meta",
             "base_chance": 10000,
-            "ping_rarity": 1000000,
+            "ping_rarity": 100000,
             "fixed_rarity": true,
             "biome_whitelist": [
                 "CYBERSPACE"
