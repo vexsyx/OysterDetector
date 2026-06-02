@@ -262,7 +262,7 @@
         "name": "SINGULARITY",
         "display": "Singularity",
         "visuals": {
-            "primary_hex": "0xD47111",
+            "primary_hex": "0xAD1911",
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/singularity.png",
             "asset_id": 107114559110957
         },
