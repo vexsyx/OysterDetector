@@ -2139,6 +2139,17 @@
         }
     },
     {
+        "identifier": "CYTOKINESIS",
+        "properties": {
+            "name": "Cytokenesis",
+            "base_chance": 330400472,
+            "biome_amplifier": [
+                "CYBERSPACE",
+                2
+            ]
+        }
+    },
+    {
         "identifier": "Jazz_Orchestra",
         "properties": {
             "name": "Jazz : Orchestra",
@@ -4797,6 +4808,23 @@
                 1
             ],
             "rank": "challenged_plus"
+        }
+    },
+    {
+        "identifier": "meta",
+        "properties": {
+            "name": "Meta",
+            "base_chance": 10000,
+            "ping_rarity": 1000000,
+            "fixed_rarity": true,
+            "biome_whitelist": [
+                "CYBERSPACE"
+            ],
+            "biome_amplifier": [
+                "CYBERSPACE",
+                1
+            ],
+            "rank": "challenged"
         }
     },
     {
