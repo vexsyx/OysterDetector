@@ -242,6 +242,28 @@
         }
     },
     {
+        "identifier": "Umbra",
+        "properties": {
+            "name": "Umbra",
+            "base_chance": 1010,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Penumbra",
+        "properties": {
+            "name": "Penumbra",
+            "base_chance": 1010,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Hydrogen",
         "properties": {
             "name": "Hydrogen",
@@ -1375,12 +1397,22 @@
             ]
         }
     },
-    
     {
         "identifier": "Outlaw",
         "properties": {
             "name": "Outlaw",
             "base_chance": 8000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Soultorn",
+        "properties": {
+            "name": "Soultorn",
+            "base_chance": 8333333,
             "biome_amplifier": [
                 "None",
                 1
@@ -1476,6 +1508,17 @@
         }
     },
     {
+        "identifier": "Empty",
+        "properties": {
+            "name": "Empty",
+            "base_chance": 11111111,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Melodic",
         "properties": {
             "name": "Melodic",
@@ -1494,6 +1537,17 @@
             "biome_amplifier": [
                 "RAINY",
                 4
+            ]
+        }
+    },
+    {
+        "identifier": "Imaginary",
+        "properties": {
+            "name": "Imaginary",
+            "base_chance": 12200200,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -1850,6 +1904,17 @@
         }
     },
     {
+        "identifier": "Hellbound",
+        "properties": {
+            "name": "HellBound",
+            "base_chance": 85000000,
+            "biome_amplifier": [
+                "HELL",
+                5
+            ]
+        }
+    },
+    {
         "identifier": "Virtual_WorldWide",
         "properties": {
             "name": "Virtual : WorldWide",
@@ -1865,6 +1930,17 @@
         "properties": {
             "name": "Atomic : Nucleus",
             "base_chance": 92118000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "Quartz_Rose",
+        "properties": {
+            "name": "Quartz : Rose",
+            "base_chance": 97500000,
             "biome_amplifier": [
                 "None",
                 1
@@ -2337,6 +2413,17 @@
         }
     },
     {
+        "identifier": "Sloth",
+        "properties": {
+            "name": "Sloth",
+            "base_chance": 650000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "PROLOGUE",
         "properties": {
             "name": "Prologue",
@@ -2493,6 +2580,18 @@
         }
     },
     {
+        "identifier": "Dream Catcher",
+        "properties": {
+            "name": "Dream Catcher",
+            "base_chance": 2222222222,
+            "biome_amplifier": [
+                "NIGHT",
+                10
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
         "identifier": "Equinox",
         "properties": {
             "name": "Equinox",
@@ -2520,7 +2619,7 @@
         "properties": {
             "name": "Pukeko",
             "base_chance": 3198,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2533,7 +2632,7 @@
         "properties": {
             "name": ":Flushed: : Troll",
             "base_chance": 1000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2574,7 +2673,7 @@
         "properties": {
             "name": "Astrald",
             "base_chance": 267000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2588,7 +2687,7 @@
         "properties": {
             "name": "Burger",
             "base_chance": 676767,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2602,7 +2701,7 @@
         "properties": {
             "name": "StarRider : yourdidit",
             "base_chance": 1234567,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "STARFALL",
                 5
@@ -2615,7 +2714,7 @@
         "properties": {
             "name": "Bounded : Kidnapped",
             "base_chance": 2000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2628,7 +2727,7 @@
         "properties": {
             "name": "Very Small Sewage Rat That's About 3.082 Studs Long",
             "base_chance": 20070629,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2641,7 +2740,7 @@
         "properties": {
             "name": "Pukeko : Jumping",
             "base_chance": 31980000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2654,7 +2753,7 @@
         "properties": {
             "name": "Aether : Disappointment",
             "base_chance": 33333330,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "HEAVEN",
                 5
@@ -2667,7 +2766,7 @@
         "properties": {
             "name": "bloated.exe",
             "base_chance": 67676767,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2680,7 +2779,7 @@
         "properties": {
             "name": "Impeached : imcrine",
             "base_chance": 250000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2693,7 +2792,7 @@
         "properties": {
             "name": "Doodle : AbyssalHunter",
             "base_chance": 400000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "RAINY",
                 4
@@ -2706,7 +2805,7 @@
         "properties": {
             "name": "Surfer : Symphony",
             "base_chance": 600000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2719,7 +2818,7 @@
         "properties": {
             "name": "Ramenpool",
             "base_chance": 630000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "RAINY",
                 4
@@ -2732,7 +2831,7 @@
         "properties": {
             "name": "Workshop : System",
             "base_chance": 650000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2745,7 +2844,7 @@
         "properties": {
             "name": "A fool's experience",
             "base_chance": 1000000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2758,7 +2857,7 @@
         "properties": {
             "name": "P.U.K.E.K.O.G.O.D.",
             "base_chance": 1000000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2771,7 +2870,7 @@
         "properties": {
             "name": "Equinox : You Are An Idiot",
             "base_chance": 2500000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -2924,7 +3023,7 @@
         "properties": {
             "name": "Lost Soul : Wander",
             "base_chance": 9400000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "AURORA",
                 2
@@ -3665,7 +3764,7 @@
         "properties": {
             "name": "Hatchwarden",
             "base_chance": 40000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3678,7 +3777,7 @@
         "properties": {
             "name": "Emperor",
             "base_chance": 80000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3691,7 +3790,7 @@
         "properties": {
             "name": "Eggsistance",
             "base_chance": 307777777,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3704,7 +3803,7 @@
         "properties": {
             "name": "Revive",
             "base_chance": 645000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3717,7 +3816,7 @@
         "properties": {
             "name": "Eggore",
             "base_chance": 700000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3730,7 +3829,7 @@
         "properties": {
             "name": "Eostre",
             "base_chance": 1000000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3743,7 +3842,7 @@
         "properties": {
             "name": "Eggis",
             "base_chance": 1150000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "CYBERSPACE",
                 2
@@ -3756,7 +3855,7 @@
         "properties": {
             "name": "Y.O.L.K.E.G.G.",
             "base_chance": 1780808080,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3769,7 +3868,7 @@
         "properties": {
             "name": "Sky Festival",
             "base_chance": 2000000000,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3782,7 +3881,7 @@
         "properties": {
             "name": "Egger",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3796,7 +3895,7 @@
         "properties": {
             "name": "easter isles",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3810,7 +3909,7 @@
         "properties": {
             "name": "Aeroquest",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3824,7 +3923,7 @@
         "properties": {
             "name": "Rabbit Invasion",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3838,7 +3937,7 @@
         "properties": {
             "name": "zilch.",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -3852,7 +3951,7 @@
         "properties": {
             "name": "Scavenger",
             "base_chance": 0,
-            "unobtainable": false,
+            "unobtainable": true,
             "biome_amplifier": [
                 "None",
                 1
@@ -4832,7 +4931,7 @@
         "properties": {
             "name": "Illusionary",
             "base_chance": 10000000,
-            "ping_rarity": 99999998,
+            "ping_rarity": 99999999,
             "fixed_rarity": true,
             "biome_whitelist": [
                 "CYBERSPACE"
@@ -4989,7 +5088,7 @@
         "properties": {
             "name": "Memory",
             "base_chance": 100,
-            "ping_rarity": 99999998,
+            "ping_rarity": 99999999,
             "fixed_rarity": true,
             "biome_amplifier": [
                 "None",
@@ -5034,7 +5133,7 @@
         "properties": {
             "name": "赤月の破片",
             "base_chance": 1000,
-            "ping_rarity": 99999998,
+            "ping_rarity": 99999999,
             "fixed_rarity": true,
             "biome_amplifier": [
                 "None",
