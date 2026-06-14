@@ -2504,7 +2504,7 @@
         }
     },
     {
-        "identifier": "Ascendant",
+        "identifier": "ASCENDANT",
         "properties": {
             "name": "Ascendant",
             "base_chance": 935000000,
