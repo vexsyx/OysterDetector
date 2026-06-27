@@ -990,6 +990,17 @@
         }
     },
     {
+        "identifier": "Obsidian",
+        "properties": {
+            "name": "Obsidian",
+            "base_chance": 1750000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Archmage",
         "properties": {
             "name": "Archmage",
@@ -1464,6 +1475,17 @@
         }
     },
     {
+        "identifier": "Jade_Purity",
+        "properties": {
+            "name": "Jade : Purity",
+            "base_chance": 9250000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Amethyst",
         "properties": {
             "name": "Amethyst",
@@ -1915,6 +1937,17 @@
         }
     },
     {
+        "identifier": "Runic_Wilt",
+        "properties": {
+            "name": "Runic : Wilt",
+            "base_chance": 87388744,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Virtual_WorldWide",
         "properties": {
             "name": "Virtual : WorldWide",
@@ -1996,6 +2029,17 @@
         "properties": {
             "name": "Overture",
             "base_chance": 150000000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
+        "identifier": "BOUNDED_AICHMALOTOS",
+        "properties": {
+            "name": "Bounded : Aichmalotos",
+            "base_chance": 170000000,
             "biome_amplifier": [
                 "None",
                 1
