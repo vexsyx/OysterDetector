@@ -4942,7 +4942,7 @@
         "identifier": "Dreammetric",
         "properties": {
             "name": "Dreammetric",
-            "base_chance": 520000000,
+            "base_chance": 320000000,
             "biome_whitelist": [
                 "DREAMSPACE"
             ],
