@@ -137,10 +137,10 @@
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/blazing%20sun.png",
             "asset_id": 70580600109957
         },
-        "unobtainable": true,
+        "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": false,
+        "current_event": true,
         "rpc_compatible": true
     },
     {
@@ -207,10 +207,10 @@
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/eggland.png",
             "asset_id": 107114559110957
         },
-        "unobtainable": false,
+        "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true,
+        "current_event": false,
         "rpc_compatible": true
     },
     {

@@ -1420,6 +1420,17 @@
         }
     },
     {
+        "identifier": "Spectre_Requiem",
+        "properties": {
+            "name": "Spectre : Requiem",
+            "base_chance": 8222000,
+            "biome_amplifier": [
+                "None",
+                1
+            ]
+        }
+    },
+    {
         "identifier": "Soultorn",
         "properties": {
             "name": "Soultorn",
@@ -1559,6 +1570,17 @@
             "biome_amplifier": [
                 "RAINY",
                 4
+            ]
+        }
+    },
+    {
+        "identifier": "Graffiti",
+        "properties": {
+            "name": "Graffiti",
+            "base_chance": 12000000,
+            "biome_amplifier": [
+                "None",
+                1
             ]
         }
     },
@@ -2021,6 +2043,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Sharkyn_HammerHead",
+        "properties": {
+            "name": "Sharkyn : HammerHead",
+            "base_chance": 120000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
             ]
         }
     },
@@ -2537,6 +2570,17 @@
         }
     },
     {
+        "identifier": "Eisveil",
+        "properties": {
+            "name": "Eisveil",
+            "base_chance": 830000000,
+            "biome_amplifier": [
+                "SNOWY",
+                4
+            ]
+        }
+    },
+    {
         "identifier": "dreamscape",
         "properties": {
             "name": "Dreamscape",
@@ -2544,6 +2588,17 @@
             "biome_amplifier": [
                 "None",
                 1
+            ]
+        }
+    },
+    {
+        "identifier": "Poseidon_Atlantis",
+        "properties": {
+            "name": "Poseidon : Atlantis",
+            "base_chance": 850000000,
+            "biome_amplifier": [
+                "RAINY",
+                4
             ]
         }
     },
@@ -4005,6 +4060,19 @@
         }
     },
     {
+        "identifier": "Disciple of the Crimson Moon",
+        "properties": {
+            "name": "赤月の信徒",
+            "base_chance": 0,
+            "unobtainable": true,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "rarity_override": "Season 7 Pass Reward (Tier 50)"
+        }
+    },
+    {
         "identifier": "Lightning",
         "properties": {
             "name": "Lightning",
@@ -4189,6 +4257,104 @@
             "rarity_override": "Lime's Summer Shop | 750 Clams",
             "unobtainable": true,
             "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Floaty",
+        "properties": {
+            "name": "FLoaty",
+            "base_chance": 600000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "Beach Ball",
+        "properties": {
+            "name": "Beach Ball",
+            "base_chance": 1938000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "nostalgia",
+        "properties": {
+            "name": "nostalgia",
+            "base_chance": 20170000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "Goose Rave",
+        "properties": {
+            "name": "Goose Rave",
+            "base_chance": 50000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "Vacation",
+        "properties": {
+            "name": "Vacation",
+            "base_chance": 58620000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "Bayview",
+        "properties": {
+            "name": "Bayview",
+            "base_chance": 60000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "Pool Party",
+        "properties": {
+            "name": "Pool Party",
+            "base_chance": 972000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "Alohaoe",
+        "properties": {
+            "name": "Alohaoe",
+            "base_chance": 0,
+            "unobtainable": false,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "event_override": "Summer 2026",
+            "rarity_override": "Season 8 Pass Reward (Tier 50)"
         }
     },
     {
