@@ -4260,9 +4260,21 @@
         }
     },
     {
+        "identifier": "Heatstroke",
+        "properties": {
+            "name": "Heatstroke",
+            "base_chance": 83430,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
         "identifier": "Floaty",
         "properties": {
-            "name": "FLoaty",
+            "name": "Floaty",
             "base_chance": 600000,
             "biome_amplifier": [
                 "BLAZING SUN",
@@ -4284,9 +4296,33 @@
         }
     },
     {
+        "identifier": "Vendor",
+        "properties": {
+            "name": "Vendor",
+            "base_chance": 17500000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
         "identifier": "nostalgia",
         "properties": {
             "name": "nostalgia",
+            "base_chance": 20170000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "FruitPunch",
+        "properties": {
+            "name": "fruitpunch",
             "base_chance": 20170000,
             "biome_amplifier": [
                 "BLAZING SUN",
@@ -4332,10 +4368,46 @@
         }
     },
     {
+        "identifier": "Bubble_Cascade",
+        "properties": {
+            "name": "Bubble : Cascade",
+            "base_chance": 110000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
         "identifier": "Pool Party",
         "properties": {
             "name": "Pool Party",
             "base_chance": 972000000,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "TAVERNA",
+        "properties": {
+            "name": "Taverna",
+            "base_chance": 1444444444,
+            "biome_amplifier": [
+                "BLAZING SUN",
+                1
+            ],
+            "event_override": "Summer 2026"
+        }
+    },
+    {
+        "identifier": "CENTAURUS",
+        "properties": {
+            "name": "Centaurus",
+            "base_chance": 3000000000,
             "biome_amplifier": [
                 "BLAZING SUN",
                 1
