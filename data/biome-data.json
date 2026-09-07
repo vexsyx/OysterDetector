@@ -144,6 +144,20 @@
         "rpc_compatible": true
     },
     {
+        "name": "INCINERATOR",
+        "display": "Incinerator",
+        "visuals": {
+            "primary_hex": "0xF5A442",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/incinerator.png",
+            "asset_id": 70580600109957
+        },
+        "unobtainable": false,
+        "always_send": false,
+        "ping_everyone": false,
+        "current_event": true,
+        "rpc_compatible": true
+    },
+    {
         "name": "GRAVEYARD",
         "display": "Graveyard",
         "visuals": {
