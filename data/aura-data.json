@@ -490,6 +490,20 @@
         }
     },
     {
+        "identifier": "HellFire",
+        "properties": {
+            "name": "HellFire",
+            "base_chance": 4776,
+            "biome_amplifier": [
+                "HELL",
+                6
+            ],
+            "biome_amplifiers": {
+                "HELL": 6
+            }
+        }
+    },
+    {
         "identifier": "Flutter",
         "properties": {
             "name": "Flutter",
@@ -2464,6 +2478,20 @@
         }
     },
     {
+        "identifier": "Virtual_Ultimate",
+        "properties": {
+            "name": "Virtual : Ultimate",
+            "base_chance": 80000000,
+            "biome_amplifier": [
+                "CYBERSPACE",
+                2
+            ],
+            "biome_amplifiers": {
+                "CYBERSPACE": 2
+            }
+        }
+    },
+    {
         "identifier": "HARNESSED_Elements",
         "properties": {
             "name": "Harnessed : Elements",
@@ -3083,6 +3111,20 @@
         }
     },
     {
+        "identifier": "Volcanic",
+        "properties": {
+            "name": "Volcanic",
+            "base_chance": 480000000,
+            "biome_amplifier": [
+                "HELL",
+                6
+            ],
+            "biome_amplifiers": {
+                "HELL": 6
+            }
+        }
+    },
+    {
         "identifier": "Ruins",
         "properties": {
             "name": "Ruins",
@@ -3433,10 +3475,31 @@
         }
     },
     {
+        "identifier": "Hellborn",
+        "properties": {
+            "name": "Hellborn",
+            "base_chance": 2644600640,
+            "biome_whitelist": [
+                "HELL"
+            ],
+            "biome_amplifier": [
+                "HELL",
+                1
+            ],
+            "biome_amplifiers": {
+                "HELL": 1
+            },
+            "rank": "challenged_plus"
+        }
+    },
+    {
         "identifier": "Monarch",
         "properties": {
             "name": "Monarch",
             "base_chance": 3000000000,
+            "biome_whitelist": [
+                "CORRUPTION"
+            ],
             "biome_amplifier": [
                 "CORRUPTION",
                 1
@@ -3444,7 +3507,7 @@
             "biome_amplifiers": {
                 "CORRUPTION": 1
             },
-            "rank": "challenged"
+            "rank": "challenged_plus"
         }
     },
     {
@@ -5336,7 +5399,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5352,7 +5416,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5368,7 +5433,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5384,7 +5450,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5400,7 +5467,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5416,7 +5484,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5432,7 +5501,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5448,7 +5518,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5464,7 +5535,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5480,7 +5552,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5496,7 +5569,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5512,7 +5586,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5528,7 +5603,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5544,7 +5620,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5560,7 +5637,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5576,7 +5654,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5592,7 +5671,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5608,7 +5688,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5624,7 +5705,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5640,7 +5722,8 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
@@ -5656,15 +5739,15 @@
                 "BLAZING SUN": 1,
                 "INCINERATOR": 2
             },
-            "event_override": "Summer 2026"
+            "event_override": "Summer 2026",
+            "unobtainable": true
         }
     },
     {
-        "identifier": "Alohaoe",
+        "identifier": "AlohaOe",
         "properties": {
             "name": "Alohaoe",
             "base_chance": 0,
-            "unobtainable": false,
             "biome_amplifier": [
                 "None",
                 1
@@ -5673,6 +5756,7 @@
                 "None": 1
             },
             "event_override": "Summer 2026",
+            "unobtainable": true,
             "rarity_override": "Season 8 Pass Reward (Tier 50)"
         }
     },
