@@ -137,10 +137,10 @@
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/blazing%20sun.png",
             "asset_id": 70580600109957
         },
-        "unobtainable": false,
+        "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true,
+        "current_event": false,
         "rpc_compatible": true
     },
     {
@@ -151,10 +151,10 @@
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/incinerator.png",
             "asset_id": 70580600109957
         },
-        "unobtainable": false,
+        "unobtainable": true,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": true,
+        "current_event": false,
         "rpc_compatible": true
     },
     {
@@ -330,7 +330,7 @@
         "name": "THE NULL'S EXISTENCE",
         "display": "The Null's Existence",
         "visuals": {
-            "primary_hex": "0x6B6B6B",
+            "primary_hex": "0xFFFFFF",
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/the%20null's%20existence.png",
             "asset_id": 107114559110957
         },
