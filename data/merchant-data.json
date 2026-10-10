@@ -1,0 +1,23 @@
+[
+    {
+        "id": 18247165978,
+        "name": "Mari",
+        "description": "Mari has arrived on the island...",
+        "color": "0xA56A33",
+        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/mari.png"
+    },
+    {
+        "id": 18247420806,
+        "name": "Jester",
+        "description": "Jester has arrived on the island!!",
+        "color": "0x800080",
+        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/jester.png"
+    },
+    {
+        "id": 97148159887178,
+        "name": "Rin",
+        "description": "Rin has arrived on the island...",
+        "color": "0xFA87DB",
+        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/rin.png"
+    }
+]
