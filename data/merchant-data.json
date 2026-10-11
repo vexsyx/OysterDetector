@@ -25,6 +25,10 @@
         "name": "Eden",
         "description": "**[Eden](https://sol-rng.fandom.com/wiki/Eden_(NPC))** has appeared somewhere in *The Limbo*.",
         "color": "0x080808",
-        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/eden.png"
+        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/eden.png",
+        "disabled": [
+            true,
+            "Eden Detection is currently disabled until I find an ID that matches Eden's spawn. If you know any of Edens' ID, please contact me on Discord (vex.sys), ping me in the support server, or open an issue on GitHub."
+        ]
     }
 ]
