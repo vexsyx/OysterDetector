@@ -1,34 +1,42 @@
-[
-    {
-        "id": 18247165978,
-        "name": "Mari",
-        "description": "**[Mari](https://sol-rng.fandom.com/wiki/Mari)** has arrived on the island...",
-        "color": "0xA56A33",
-        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/mari.png"
-    },
-    {
-        "id": 18247420806,
-        "name": "Jester",
-        "description": "**[Jester](https://sol-rng.fandom.com/wiki/Jester)** has arrived on the island!!",
-        "color": "0x800080",
-        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/jester.png"
-    },
-    {
-        "id": 97148159887178,
-        "name": "Rin",
-        "description": "**[Rin](https://sol-rng.fandom.com/wiki/Rin)** has arrived on the island...",
-        "color": "0xFA87DB",
-        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/rin.png"
-    },
-    {
-        "id": 18247420806,
-        "name": "Eden",
-        "description": "**[Eden](https://sol-rng.fandom.com/wiki/Eden_(NPC))** has appeared somewhere in *The Limbo*.",
-        "color": "0x080808",
-        "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/eden.png",
-        "disabled": [
-            true,
-            "Eden Detection is currently disabled until I find an ID that matches Eden's spawn. If you know any of Edens' ID, please contact me on Discord (vex.sys), ping me in the support server, or open an issue on GitHub."
-        ]
-    }
-]
+{
+    "Merchant": [
+        {
+            "id": 18247165978,
+            "name": "Mari",
+            "description": "**[Mari](https://sol-rng.fandom.com/wiki/Mari)** has arrived on the island...",
+            "color": "0xA56A33",
+            "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/mari.png",
+            "include_ps_link": true
+        },
+        {
+            "id": 18247420806,
+            "name": "Jester",
+            "description": "**[Jester](https://sol-rng.fandom.com/wiki/Jester)** has arrived on the island!!",
+            "color": "0x800080",
+            "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/jester.png",
+            "include_ps_link": true
+        },
+        {
+            "id": 97148159887178,
+            "name": "Rin",
+            "description": "**[Rin](https://sol-rng.fandom.com/wiki/Rin)** has arrived on the island...",
+            "color": "0xFA87DB",
+            "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/rin.png",
+            "include_ps_link": true
+        }
+    ],
+    "NPC": [
+        {
+            "id": 18247420806,
+            "name": "Eden",
+            "description": "**[Eden](https://sol-rng.fandom.com/wiki/Eden_(NPC))** has appeared somewhere in *The Limbo*.",
+            "color": "0x080808",
+            "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/eden.png",
+            "disabled": [
+                true,
+                "Eden Detection is currently disabled until I find an ID that matches Eden's spawn. If you know any of Edens' ID, please contact me on Discord (vex.sys), ping me in the support server, or open an issue on GitHub."
+            ],
+            "include_ps_link": false
+        }
+    ]
+}
