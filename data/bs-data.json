@@ -1,0 +1,56 @@
+{
+    "1": {
+        "name": "Radiant Star Drive",
+        "biome": "STARFALL",
+        "border_color": "0x1c73ff",
+        "border_color_alt": "0x0a1931"
+    },
+    "2": {
+        "name": "Infernal Flame Drive",
+        "biome": "HELL",
+        "border_color": "0xff3737",
+        "border_color_alt": "0x610f0f"
+    },
+    "3": {
+        "name": "Unknown Void Drive",
+        "biome": "NULL",
+        "border_color": "0xffffff",
+        "border_color_alt": "0x000000"
+    },
+    "4": {
+        "name": "Corrupt Ruin Drive",
+        "biome": "CORRUPTION",
+        "border_color": "0x972eff",
+        "border_color_alt": "0x140b23"
+    },
+    "5": {
+        "name": "Golden Dune Drive",
+        "biome": "SANDSTORM",
+        "border_color": "0xffbc86",
+        "border_color_alt": "0x302318"
+    },
+    "6": {
+        "name": "Chilling Frost Drive",
+        "biome": "SNOWY",
+        "border_color": "0x9eecff",
+        "border_color_alt": "0x406068"
+    },
+    "7": {
+        "name": "Abyss Curse Drive",
+        "biome": "RAINY",
+        "border_color": "0x589bff",
+        "border_color_alt": "0x2b4d7d"
+    },
+    "8": {
+        "name": "Raging Gale Drive",
+        "biome": "WINDY",
+        "border_color": "0x8affbd",
+        "border_color_alt": "0x346148"
+    },
+    "9": {
+        "name": "Angelic Hymn Drive",
+        "biome": "HEAVEN",
+        "border_color": "0xffce80",
+        "border_color_alt": "0x61421f"
+    }
+}
