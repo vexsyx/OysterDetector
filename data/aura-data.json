@@ -1148,6 +1148,34 @@
         }
     },
     {
+        "identifier": "Artifact",
+        "properties": {
+            "name": "Artifact",
+            "base_chance": 500000,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "biome_amplifiers": {
+                "None": 1
+            }
+        }
+    },
+    {
+        "identifier": "veylune",
+        "properties": {
+            "name": "veylune",
+            "base_chance": 555000,
+            "biome_amplifier": [
+                "None",
+                1
+            ],
+            "biome_amplifiers": {
+                "None": 1
+            }
+        }
+    },
+    {
         "identifier": "Kyawthuite",
         "properties": {
             "name": "Kyawthuite",
@@ -3125,6 +3153,20 @@
         }
     },
     {
+        "identifier": "Hasuen",
+        "properties": {
+            "name": "Hasuen",
+            "base_chance": 485000000,
+            "biome_amplifier": [
+                "LOST FOREST",
+                2
+            ],
+            "biome_amplifiers": {
+                "LOST FOREST": 2
+            }
+        }
+    },
+    {
         "identifier": "Ruins",
         "properties": {
             "name": "Ruins",
@@ -3508,6 +3550,20 @@
                 "CORRUPTION": 1
             },
             "rank": "challenged_plus"
+        }
+    },
+    {
+        "identifier": "Tree House",
+        "properties": {
+            "name": "Tree House",
+            "base_chance": 3800000000,
+            "biome_amplifier": [
+                "LOST FOREST",
+                2
+            ],
+            "biome_amplifiers": {
+                "LOST FOREST": 2
+            }
         }
     },
     {

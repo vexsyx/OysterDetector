@@ -117,6 +117,19 @@
         "rpc_compatible": true
     },
     {
+        "name": "LOST FOREST",
+        "display": "Lost Forest",
+        "visuals": {
+            "primary_hex": "0x003008",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/lost%20forest.png",
+            "asset_id": 107114559110957
+        },
+        "unobtainable": false,
+        "always_send": false,
+        "ping_everyone": false,
+        "rpc_compatible": true
+    },
+    {
         "name": "NULL",
         "display": "Null",
         "visuals": {
@@ -268,6 +281,21 @@
         "unobtainable": false,
         "always_send": true,
         "ping_everyone": true,
+        "snipe_protection": true,
+        "rpc_compatible": true,
+        "rare_biome": true
+    },
+    {
+        "name": "RADIANT FOREST",
+        "display": "Radiant Forest",
+        "visuals": {
+            "primary_hex": "0x003008",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/radiant%20forest.png",
+            "asset_id": 92180140049616
+        },
+        "unobtainable": false,
+        "always_send": true,
+        "ping_everyone": false,
         "snipe_protection": true,
         "rpc_compatible": true,
         "rare_biome": true
