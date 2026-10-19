@@ -439,11 +439,11 @@
             "name": "Flora",
             "base_chance": 3700,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -509,11 +509,11 @@
             "name": "Flutter",
             "base_chance": 5000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -529,6 +529,23 @@
             "biome_amplifiers": {
                 "None": 1
             }
+        }
+    },
+    {
+        "identifier": "Watcher",
+        "properties": {
+            "name": "Watcher",
+            "base_chance": 5000,
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ]
         }
     },
     {
@@ -571,6 +588,23 @@
             "biome_amplifiers": {
                 "None": 1
             }
+        }
+    },
+    {
+        "identifier": "Rekindle",
+        "properties": {
+            "name": "Rekindle",
+            "base_chance": 7500,
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ]
         }
     },
     {
@@ -733,11 +767,11 @@
             "name": "Marsh",
             "base_chance": 25000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -1013,11 +1047,11 @@
             "name": "Jade",
             "base_chance": 125000,
             "biome_amplifier": [
-                "None",
-                1
+                "THE RADIANT FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "THE RADIANT FOREST": 2
             }
         }
     },
@@ -1069,11 +1103,11 @@
             "name": "Lantern",
             "base_chance": 333333,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -1377,11 +1411,11 @@
             "name": "Flutter : Buggify",
             "base_chance": 2000000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -1649,6 +1683,23 @@
             "biome_amplifiers": {
                 "DAY": 10
             }
+        }
+    },
+    {
+        "identifier": "Moonchild",
+        "properties": {
+            "name": "Moonchild",
+            "base_chance": 5000000,
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ]
         }
     },
     {
@@ -1937,11 +1988,11 @@
             "name": "Jade : Purity",
             "base_chance": 9250000,
             "biome_amplifier": [
-                "None",
-                1
+                "THE RADIANT FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "THE RADIANT FOREST": 2
             }
         }
     },
@@ -2259,11 +2310,11 @@
             "name": "Flora : Florest",
             "base_chance": 32800000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -2343,11 +2394,11 @@
             "name": "Runic",
             "base_chance": 50000000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -2363,6 +2414,23 @@
             "biome_amplifiers": {
                 "CYBERSPACE": 2
             }
+        }
+    },
+    {
+        "identifier": "CorLunae",
+        "properties": {
+            "name": "Cor Lunae",
+            "base_chance": 50000000,
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ]
         }
     },
     {
@@ -2553,11 +2621,11 @@
             "name": "Runic : Wilt",
             "base_chance": 87388744,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -2651,11 +2719,11 @@
             "name": "Lily",
             "base_chance": 112000000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -2934,11 +3002,11 @@
             "name": "Perpetual",
             "base_chance": 315000000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -3032,11 +3100,11 @@
             "name": "Flora : Evergreen",
             "base_chance": 370073730,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -3130,11 +3198,11 @@
             "name": "Kyawthuite : Remembrance",
             "base_chance": 450000000,
             "biome_amplifier": [
-                "None",
-                1
+                "THE RADIANT FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "THE RADIANT FOREST": 2
             }
         }
     },
@@ -3172,11 +3240,11 @@
             "name": "Ruins",
             "base_chance": 500000000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -3312,11 +3380,11 @@
             "name": "Ruins : Withered",
             "base_chance": 800000000,
             "biome_amplifier": [
-                "None",
-                1
+                "LOST FOREST",
+                2
             ],
             "biome_amplifiers": {
-                "None": 1
+                "LOST FOREST": 2
             }
         }
     },
@@ -6609,6 +6677,44 @@
             },
             "rarity_override": "1 in 700,000 (In ***[ The Citadel of Orders ]***)",
             "rank": "unobtainable"
+        }
+    },
+    {
+        "identifier": "Jade_True",
+        "properties": {
+            "name": "- true - Jade",
+            "base_chance": 125000,
+            "rarity_override": "1 in 125,000 after rolling all **[Jade](https://sol-rng.fandom.com/wiki/Jade)** variants",
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Tomorrow.",
+        "properties": {
+            "name": "Tomorrow.",
+            "base_chance": 1,
+            "rarity_override": "Immediately after collecting **[The 7 Radiant Moons](https://sol-rng.fandom.com/wiki/Tomorrow#:~:text=The%20seven%20radiant%20moons%20are%20the%20following%20auras)**",
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ],
+            "rank": "challenged"
         }
     },
     {

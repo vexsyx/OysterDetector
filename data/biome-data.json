@@ -286,8 +286,8 @@
         "rare_biome": true
     },
     {
-        "name": "RADIANT FOREST",
-        "display": "Radiant Forest",
+        "name": "THE RADIANT FOREST",
+        "display": "The Radiant Forest",
         "visuals": {
             "primary_hex": "0x003008",
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/radiant%20forest.png",
