@@ -289,7 +289,7 @@
         "name": "THE RADIANT FOREST",
         "display": "The Radiant Forest",
         "visuals": {
-            "primary_hex": "0x003008",
+            "primary_hex": "0x2b77bf",
             "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/radiant%20forest.png",
             "asset_id": 92180140049616
         },
