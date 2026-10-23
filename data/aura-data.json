@@ -6680,11 +6680,49 @@
         }
     },
     {
+        "identifier": "Kyawthuite_True",
+        "properties": {
+            "name": "The Kyawthuite",
+            "base_chance": 825000,
+            "rarity_override": "1 in 825,000 after rolling all **[Kyawthuite](https://sol-rng.fandom.com/wiki/Kyawthuite)** variants",
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
+        "identifier": "Twilight_True",
+        "properties": {
+            "name": "The Twilight",
+            "base_chance": 6000000,
+            "rarity_override": "1 in 6,000,000 after rolling all **[Twilight](https://sol-rng.fandom.com/wiki/Twilight)** variants",
+            "biome_amplifier": [
+                "THE RADIANT FOREST",
+                1
+            ],
+            "biome_amplifiers": {
+                "THE RADIANT FOREST": 1
+            },
+            "biome_whitelist": [
+                "THE RADIANT FOREST"
+            ],
+            "rank": "challenged"
+        }
+    },
+    {
         "identifier": "Jade_True",
         "properties": {
             "name": "- true - Jade",
-            "base_chance": 125000,
-            "rarity_override": "1 in 125,000 after rolling all **[Jade](https://sol-rng.fandom.com/wiki/Jade)** variants",
+            "base_chance": 10125000,
+            "rarity_override": "1 in 10,125,000 after rolling all **[Jade](https://sol-rng.fandom.com/wiki/Jade)** variants",
             "biome_amplifier": [
                 "THE RADIANT FOREST",
                 1
@@ -6714,7 +6752,7 @@
             "biome_whitelist": [
                 "THE RADIANT FOREST"
             ],
-            "rank": "challenged"
+            "rank": "challenged_plus"
         }
     },
     {
