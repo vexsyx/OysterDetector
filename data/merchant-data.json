@@ -27,7 +27,7 @@
     ],
     "NPC": [
         {
-            "id": 18247420806,
+            "id": 0,
             "name": "Eden",
             "description": "**[Eden](https://sol-rng.fandom.com/wiki/Eden_(NPC))** has appeared somewhere in *The Limbo*.",
             "color": "0x080808",
@@ -37,6 +37,28 @@
                 "Eden Detection is currently disabled until I find an ID that matches Eden's spawn. If you know any of Edens' ID, please contact me on Discord (vex.sys), ping me in the support server, or open an issue on GitHub."
             ],
             "include_ps_link": false
+        }
+    ],
+    "Boss": [
+        {
+            "id": 136698315787897,
+            "name": "Sinister S.",
+            "description": "**[Sinister S.](https://sol-rng.fandom.com/wiki/Sinister_S.)** is patrolling the graveyard...",
+            "color": "0x797aa0",
+            "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sinister_s.png",
+            "include_ps_link": true
+        },
+        {
+            "id": 0,
+            "name": "Sinister P.",
+            "description": "**[Sinister P.](https://sol-rng.fandom.com/wiki/Sinister_P.)** is patrolling the idfk...",
+            "color": "0x797aa0",
+            "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sinister_p.png",
+            "disabled": [
+                true,
+                "this shit aint even out yet bro, be patient"
+            ],
+            "include_ps_link": true
         }
     ]
 }
