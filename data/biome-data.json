@@ -192,10 +192,10 @@
             "asset_id": 95757644199077,
             "emoji": "🪦"
         },
-        "unobtainable": true,
+        "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": false,
+        "current_event": true,
         "rpc_compatible": true
     },
     {
@@ -207,10 +207,10 @@
             "asset_id": 99498743098710,
             "emoji": "🎃"
         },
-        "unobtainable": true,
+        "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": false,
+        "current_event": true,
         "rpc_compatible": true
     },
     {
@@ -222,10 +222,10 @@
             "asset_id": 135005466099885,
             "emoji": "🩸"
         },
-        "unobtainable": true,
+        "unobtainable": false,
         "always_send": false,
         "ping_everyone": false,
-        "current_event": false,
+        "current_event": true,
         "rpc_compatible": true
     },
     {
