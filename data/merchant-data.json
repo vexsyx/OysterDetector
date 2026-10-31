@@ -2,6 +2,8 @@
     "Merchant": [
         {
             "id": 18247165978,
+            "cache_addr": "e19e08c3454fe2d8fac8d447434a7c16",
+            "cache_file": "3322c570efc137a477a1e2f04bb39fe7",
             "name": "Mari",
             "description": "**[Mari](https://sol-rng.fandom.com/wiki/Mari)** has arrived on the island...",
             "color": "0xA56A33",
@@ -10,6 +12,8 @@
         },
         {
             "id": 18247420806,
+            "cache_addr": "7a41a0002e8294562cd0ac3048386152",
+            "cache_file": "1fc3405b9963491cf03fd7b5f89b801b",
             "name": "Jester",
             "description": "**[Jester](https://sol-rng.fandom.com/wiki/Jester)** has arrived on the island!!",
             "color": "0x800080",
@@ -18,6 +22,8 @@
         },
         {
             "id": 97148159887178,
+            "cache_addr": "6a3e15a8e4d909486bc445bdb8fe4996",
+            "cache_file": "25f70ebc3654f26af69047a7d941c859",
             "name": "Rin",
             "description": "**[Rin](https://sol-rng.fandom.com/wiki/Rin)** has arrived on the island...",
             "color": "0xFA87DB",
@@ -28,6 +34,8 @@
     "NPC": [
         {
             "id": 0,
+            "cache_addr": "",
+            "cache_file": "",
             "name": "Eden",
             "description": "**[Eden](https://sol-rng.fandom.com/wiki/Eden_(NPC))** has appeared somewhere in *The Limbo*.",
             "color": "0x080808",
@@ -42,6 +50,8 @@
     "Boss": [
         {
             "id": 136698315787897,
+            "cache_addr": "16daaac736fd49a9bb3782f99f0b29d2",
+            "cache_file": "741269bab3f96bb43876567e4cd50ac1",
             "name": "Sinister S.",
             "description": "**[Sinister S.](https://sol-rng.fandom.com/wiki/Sinister_S.)** is patrolling the graveyard...",
             "color": "0x797aa0",
@@ -50,6 +60,8 @@
         },
         {
             "id": 0,
+            "cache_addr": "",
+            "cache_file": "",
             "name": "Sinister P.",
             "description": "**[Sinister P.](https://sol-rng.fandom.com/wiki/Sinister_P.)** is patrolling the idfk...",
             "color": "0x797aa0",
