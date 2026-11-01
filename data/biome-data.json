@@ -393,5 +393,19 @@
         "always_send": true,
         "dev_biome": true,
         "rpc_compatible": true
+    },
+    {
+        "name": "THE RED FULL MOON",
+        "display": "The Red Full Moon",
+        "visuals": {
+            "primary_hex": "0xFFFFFF",
+            "preview_image": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/the%20red%20full%20moon.png",
+            "asset_id": 107114559110957,
+            "emoji": "🔴"
+        },
+        "unobtainable": false,
+        "always_send": true,
+        "dev_biome": true,
+        "rpc_compatible": true
     }
 ]
