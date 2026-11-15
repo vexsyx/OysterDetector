@@ -60,16 +60,12 @@
         },
         {
             "id": 0,
-            "cache_addr": "",
-            "cache_file": "",
+            "cache_addr": "2c71e2ca0bf1100136e35e13d0be62cb",
+            "cache_file": "e34323777713d3cad46beddc9a16b993",
             "name": "Sinister P.",
             "description": "**[Sinister P.](https://sol-rng.fandom.com/wiki/Sinister_P.)** is patrolling the idfk...",
             "color": "0x797aa0",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sinister_p.png",
-            "disabled": [
-                true,
-                "this shit aint even out yet bro, be patient"
-            ],
             "include_ps_link": true
         }
     ]
