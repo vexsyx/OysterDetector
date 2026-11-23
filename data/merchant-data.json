@@ -8,7 +8,12 @@
             "description": "**[Mari](https://sol-rng.fandom.com/wiki/Mari)** has arrived on the island...",
             "color": "0xA56A33",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/mari.png",
-            "include_ps_link": true
+            "include_ps_link": true,
+            "disabled": [
+                false,
+                ""
+            ],
+            "hidden": false
         },
         {
             "id": 18247420806,
@@ -18,7 +23,12 @@
             "description": "**[Jester](https://sol-rng.fandom.com/wiki/Jester)** has arrived on the island!!",
             "color": "0x800080",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/jester.png",
-            "include_ps_link": true
+            "include_ps_link": true,
+            "disabled": [
+                false,
+                ""
+            ],
+            "hidden": false
         },
         {
             "id": 97148159887178,
@@ -28,7 +38,12 @@
             "description": "**[Rin](https://sol-rng.fandom.com/wiki/Rin)** has arrived on the island...",
             "color": "0xFA87DB",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/rin.png",
-            "include_ps_link": true
+            "include_ps_link": true,
+            "disabled": [
+                false,
+                ""
+            ],
+            "hidden": false
         }
     ],
     "NPC": [
@@ -44,7 +59,8 @@
                 true,
                 "Eden Detection is currently disabled until I find an ID that matches Eden's spawn. If you know any of Edens' ID, please contact me on Discord (vex.sys), ping me in the support server, or open an issue on GitHub."
             ],
-            "include_ps_link": false
+            "include_ps_link": false,
+            "hidden": false
         }
     ],
     "Boss": [
@@ -56,17 +72,27 @@
             "description": "**[Sinister S.](https://sol-rng.fandom.com/wiki/Sinister_S.)** is patrolling the graveyard...",
             "color": "0x797aa0",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sinister_s.png",
-            "include_ps_link": true
+            "include_ps_link": true,
+            "disabled": [
+                false,
+                ""
+            ],
+            "hidden": false
         },
         {
             "id": 0,
             "cache_addr": "2c71e2ca0bf1100136e35e13d0be62cb",
             "cache_file": "e34323777713d3cad46beddc9a16b993",
             "name": "Sinister P.",
-            "description": "**[Sinister P.](https://sol-rng.fandom.com/wiki/Sinister_P.)** is patrolling the idfk...",
-            "color": "0x797aa0",
+            "description": "**[Sinister P.](https://sol-rng.fandom.com/wiki/Sinister_P.)** wreaking havoc across the land!",
+            "color": "0xad4815",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sinister_p.png",
-            "include_ps_link": true
+            "include_ps_link": true,
+            "disabled": [
+                false,
+                ""
+            ],
+            "hidden": false
         }
     ]
 }
