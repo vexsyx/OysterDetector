@@ -1,0 +1,434 @@
+{
+  "schema_version": 1,
+  "source_urls": [
+    "https://sol-rng.fandom.com/wiki/Gears",
+    "https://sol-rng.fandom.com/wiki/Items"
+  ],
+  "cataloged_at": "2026-11-23",
+  "gears": [
+    {
+      "id": "luck_glove",
+      "name": "Luck Glove",
+      "search_text": "Luck Glove",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "desire_glove",
+      "name": "Desire Glove",
+      "search_text": "Desire Glove",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "lunar_device",
+      "name": "Lunar Device",
+      "search_text": "Lunar Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "frozen_gauntlet",
+      "name": "Frozen Gauntlet",
+      "search_text": "Frozen Gauntlet",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "solar_device",
+      "name": "Solar Device",
+      "search_text": "Solar Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "aqua_device",
+      "name": "Aqua Device",
+      "search_text": "Aqua Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "shining_star",
+      "name": "Shining Star",
+      "search_text": "Shining Star",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "eclipse_device",
+      "name": "Eclipse Device",
+      "search_text": "Eclipse Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "exo_gauntlet",
+      "name": "Exo Gauntlet",
+      "search_text": "Exo Gauntlet",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "windstorm_device",
+      "name": "Windstorm Device",
+      "search_text": "Windstorm Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "subzero_device",
+      "name": "Subzero Device",
+      "search_text": "Subzero Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "galactic_device",
+      "name": "Galactic Device",
+      "search_text": "Galactic Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "volcanic_device",
+      "name": "Volcanic Device",
+      "search_text": "Volcanic Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "exoflex_device",
+      "name": "Exoflex Device",
+      "search_text": "Exoflex Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "hologrammer",
+      "name": "Hologrammer",
+      "search_text": "Hologrammer",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "ragnaroker",
+      "name": "Ragnaröker",
+      "search_text": "Ragnaröker",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "starshaper",
+      "name": "Starshaper",
+      "search_text": "Starshaper",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "neuralyzer",
+      "name": "Neuralyzer",
+      "search_text": "Neuralyzer",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "genesis_drive",
+      "name": "Genesis Drive",
+      "search_text": "Genesis Drive",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "heavenly_device",
+      "name": "Heavenly Device",
+      "search_text": "Heavenly Device",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "singularity_gauntlet",
+      "name": "Singularity Gauntlet",
+      "search_text": "Singularity Gauntlet",
+      "slot": "right",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "gemstone_gauntlet",
+      "name": "Gemstone Gauntlet",
+      "search_text": "Gemstone Gauntlet",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "dark_matter_device",
+      "name": "Dark Matter Device",
+      "search_text": "Dark Matter Device",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "jackpot_gauntlet",
+      "name": "Jackpot Gauntlet",
+      "search_text": "Jackpot Gauntlet",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "flesh_device",
+      "name": "Flesh Device",
+      "search_text": "Flesh Device",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "gravitational_device",
+      "name": "Gravitational Device",
+      "search_text": "Gravitational Device",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "darkshader",
+      "name": "Darkshader",
+      "search_text": "Darkshader",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "pole_light_core_device",
+      "name": "Pole Light Core Device",
+      "search_text": "Pole Light Core Device",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "the_thing",
+      "name": "The Thing",
+      "search_text": "The Thing",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "unfathomable_ruins",
+      "name": "Unfathomable Ruins",
+      "search_text": "Unfathomable Ruins",
+      "slot": "left",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "wind_fairy_lantern",
+      "name": "Wind Fairy Lantern",
+      "search_text": "Wind Fairy Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "frozen_lantern",
+      "name": "Frozen Lantern",
+      "search_text": "Frozen Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "abyssal_lantern",
+      "name": "Abyssal Lantern",
+      "search_text": "Abyssal Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "gilded_dust_lantern",
+      "name": "Gilded Dust Lantern",
+      "search_text": "Gilded Dust Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "eternal_flaming_lantern",
+      "name": "Eternal Flaming Lantern",
+      "search_text": "Eternal Flaming Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "starlight_lantern",
+      "name": "Starlight Lantern",
+      "search_text": "Starlight Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "angel_s_feather_lantern",
+      "name": "Angel's Feather Lantern",
+      "search_text": "Angel's Feather Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "corruption_cell_lantern",
+      "name": "Corruption Cell Lantern",
+      "search_text": "Corruption Cell Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "darklight_lantern",
+      "name": "Darklight Lantern",
+      "search_text": "Darklight Lantern",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "sunstone_talisman",
+      "name": "Sunstone Talisman",
+      "search_text": "Sunstone Talisman",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "moonstone_talisman",
+      "name": "Moonstone Talisman",
+      "search_text": "Moonstone Talisman",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "day_and_night_talisman",
+      "name": "Day and Night Talisman",
+      "search_text": "Day and Night Talisman",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "overtime_talisman",
+      "name": "Overtime Talisman",
+      "search_text": "Overtime Talisman",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "soul_collector_s_talisman",
+      "name": "Soul Collector's Talisman",
+      "search_text": "Soul Collector's Talisman",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "soul_master_s_talisman",
+      "name": "Soul Master's Talisman",
+      "search_text": "Soul Master's Talisman",
+      "slot": "pocket",
+      "limited": false,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "pump_punch",
+      "name": "Pump Punch",
+      "search_text": "Pump Punch",
+      "slot": "right",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "snow_rider",
+      "name": "Snow Rider",
+      "search_text": "Snow Rider",
+      "slot": "right",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "vampire_hunter",
+      "name": "Vampire Hunter",
+      "search_text": "Vampire Hunter",
+      "slot": "right",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "tide_gauntlet",
+      "name": "Tide Gauntlet",
+      "search_text": "Tide Gauntlet",
+      "slot": "left",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "blessed_tide_gauntlet",
+      "name": "Blessed Tide Gauntlet",
+      "search_text": "Blessed Tide Gauntlet",
+      "slot": "left",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "present_giver",
+      "name": "Present Giver",
+      "search_text": "Present Giver",
+      "slot": "left",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "x_mas_champion",
+      "name": "X-mas Champion",
+      "search_text": "X-mas Champion",
+      "slot": "left",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    },
+    {
+      "id": "ominous_coffin",
+      "name": "Ominous Coffin",
+      "search_text": "Ominous Coffin",
+      "slot": "left",
+      "limited": true,
+      "source_url": "https://sol-rng.fandom.com/wiki/Gears"
+    }
+  ]
+}

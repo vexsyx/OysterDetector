@@ -8,6 +8,7 @@
             "description": "**[Mari](https://sol-rng.fandom.com/wiki/Mari)** has arrived on the island...",
             "color": "0xA56A33",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/mari.png",
+            "despawn_timer": 180,
             "include_ps_link": true,
             "disabled": [
                 false,
@@ -23,6 +24,7 @@
             "description": "**[Jester](https://sol-rng.fandom.com/wiki/Jester)** has arrived on the island!!",
             "color": "0x800080",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/jester.png",
+            "despawn_timer": 180,
             "include_ps_link": true,
             "disabled": [
                 false,
@@ -38,6 +40,7 @@
             "description": "**[Rin](https://sol-rng.fandom.com/wiki/Rin)** has arrived on the island...",
             "color": "0xFA87DB",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/rin.png",
+            "despawn_timer": 180,
             "include_ps_link": true,
             "disabled": [
                 false,
@@ -55,6 +58,7 @@
             "description": "**[Eden](https://sol-rng.fandom.com/wiki/Eden_(NPC))** has appeared somewhere in *The Limbo*.",
             "color": "0x080808",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/eden.png",
+            "despawn_timer": 1800,
             "disabled": [
                 true,
                 "Eden Detection is currently disabled until I find an ID that matches Eden's spawn. If you know any of Edens' ID, please contact me on Discord (vex.sys), ping me in the support server, or open an issue on GitHub."
@@ -72,6 +76,7 @@
             "description": "**[Sinister S.](https://sol-rng.fandom.com/wiki/Sinister_S.)** is patrolling the graveyard...",
             "color": "0x797aa0",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sinister_s.png",
+            "despawn_timer": 600,
             "include_ps_link": true,
             "disabled": [
                 false,
@@ -87,6 +92,7 @@
             "description": "**[Sinister P.](https://sol-rng.fandom.com/wiki/Sinister_P.)** wreaking havoc across the land!",
             "color": "0xad4815",
             "thumbnail": "https://raw.githubusercontent.com/vexsyx/OysterDetector/refs/heads/main/assets/sinister_p.png",
+            "despawn_timer": 600,
             "include_ps_link": true,
             "disabled": [
                 false,
